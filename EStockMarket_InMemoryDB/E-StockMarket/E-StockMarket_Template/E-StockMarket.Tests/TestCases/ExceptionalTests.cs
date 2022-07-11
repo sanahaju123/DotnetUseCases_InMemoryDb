@@ -32,7 +32,7 @@ namespace E_StockMarket.Tests.TestCases
         private readonly RegisterComponyInfoViewModel _registerComponyInfoViewModel;
         private readonly RegisterStockPriceViewModel _registerStockPriceViewModel;
 
-        private static string type = "Exceptional";
+        private static string type = "Exception";
 
         public ExceptionalTests(ITestOutputHelper output)
         {

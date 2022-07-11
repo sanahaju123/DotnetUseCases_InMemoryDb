@@ -36,7 +36,7 @@ namespace PoliticalParties.Tests.TestCases
         private readonly RegisterPoliticalLeaderViewModel _registerPoliticalLeaderViewModel;
         private readonly RegisterDevelopmentViewModel _registerDevelopmentViewModel;
 
-        private static string type = "Exceptional";
+        private static string type = "Exception";
 
         public ExceptionalTests(ITestOutputHelper output)
         {

@@ -45,7 +45,7 @@ namespace DatingApplication.Tests
         private readonly DislikeViewModel _dislikeViewModel;
 
 
-        private static string type = "Exceptional";
+        private static string type = "Exception";
         public ExceptionalTests(ITestOutputHelper output)
         {
             _userServices = new UserServices(userservice.Object);
